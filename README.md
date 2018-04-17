@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/watch?v=_GikMdhAhv0&t=53s">How To Install</a>
 
 <img src="https://github.com/Oosker/BillyBobAndTheMunsterUprising/blob/master/Title.png">
-<img src="
+<img src="https://github.com/Oosker/BillyBobAndTheMunsterUprising/blob/master/Controls.png">
 <img src="https://github.com/Oosker/BillyBobAndTheMunsterUprising/blob/master/Game.png">
 <p>
 	Billy Bob lives in a small village in the forest. Like any other person he turns on the tv and watches the news only to find out that there’s a monster uprising. Billy surely doesn’t wanna get eaten by monsters so he prepared himself for battle and was ready for death as well. 
